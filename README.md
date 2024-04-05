@@ -1,1 +1,1 @@
-# Simple_Calculator
+- It is a simple calculator application written in C# language.
